@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arsiteknews.github.io/desain/sitemap.xml
